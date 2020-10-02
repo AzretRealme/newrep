@@ -1,7 +1,7 @@
 public class newrep {
-    //now do
-    //пока сильна Джава , будет развиваться С++
+    public static void main(String[] args){
+        System.out.println("IGNORE");
+    }
 
-    //javaaa gosling
 
 }
